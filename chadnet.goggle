@@ -1,0 +1,6 @@
+! name: Reddit
+! description: Boost Reddit Results
+! public: false
+! author: toctou
+$discard
+$site=wiki.chadnet.org,boost=2
