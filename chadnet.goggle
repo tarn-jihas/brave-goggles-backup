@@ -3,5 +3,4 @@
 ! public: false
 ! author: toctou
 $discard
-$boost, site=wiki.chadnet.org
-
+$boost,site=wiki.chadnet.org
