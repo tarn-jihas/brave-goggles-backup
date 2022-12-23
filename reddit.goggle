@@ -1,0 +1,6 @@
+! name: Reddit
+! description: A quick test of Goggles
+! public: false
+! author: toctou
+$discard
+$site=reddit.com,boost=2
